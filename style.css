@@ -1,0 +1,108 @@
+/*COLOR PALETTE
+Blue -  21b0fe
+Yellow - fed700
+Pink - #fe218b
+*/
+
+/*GLOBAL STYLES*/
+html {
+    box-sizing: border-box;
+}
+*,*::before, *::after {
+    box-sizing: inherit;
+}
+html, body {
+    height: 100%;
+}
+body {
+    background-color: white;
+    margin: 50px;
+    padding: 15%;
+    color: black;
+    font-family: 'Merriweather', serif; 
+    line-height: 150%;
+}
+h2 {
+    font-family: 'Karla', sans-serif;
+    font-size: 2em;
+    padding-top: 8%;
+}
+h3 {
+    font-size: 1.3em;
+    padding-top: 5%;
+}
+/*Resume*/
+
+/*Special Header*/
+.Darby{
+    font-family: 'Karla', 'sans-serif';
+    text-shadow:  #fed700 -3px 3px, #fe218b -6px 6px;
+    font-size: 2.5em;
+}
+.img {
+    float: left;
+    margin-right: 20px;
+}  
+.fall {
+    margin-left: 20px:
+}
+
+
+/*Profile*/
+
+/*Projects*/
+.project2 {
+   padding-top: 8%;
+}
+
+/*Work Experience*/
+.work-experience{
+    background: #21b0fe;
+    color: black; 
+}
+/*Education*/
+
+
+/*Footer*/
+footer{
+    background: #21b0fe;
+}
+footer a:hover {
+    background: #fed700;
+    color: black;
+}
+.btn{
+    background: fed700;
+    color: white;
+    text-decoration: none;
+}
+.content-wrapper {
+    margin: 0 auto;
+    padding: 30 px;
+    max-width: 900 px;
+}
+*{
+    color: black;
+}
+h1 {
+    color: #21b0fe;
+}
+h2{
+    color: #fe218b;
+}
+a {
+    color: #fe218b;
+}
+section{
+    color: white;
+}
+.social {
+    list-style-type: none;
+    padding: 0;
+}
+.socials li{
+    display: inline-block;
+}
+.social img {
+    width: 32px;
+}
